@@ -5,7 +5,9 @@ Slides used to summarize the draft Full-Time Continuing Contract Faculty Policy 
 ## Publishing slides
 
 Slides are auto-generated from the materials in the `docs` folder using Git Pages.
-- view the policy summary slide at https://nyu-computer-science.github.io/contract-faculty-policy/summary
+
+- view the committee's draft policy summary slides at https://nyu-computer-science.github.io/contract-faculty-policy/proposal
+- view our expected final policy summary slides at https://nyu-computer-science.github.io/contract-faculty-policy/expectation
 
 ## Running locally
 
